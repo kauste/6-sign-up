@@ -25,17 +25,22 @@ body {
     width: 40%;
     padding: 40px;
     background-color: rgb(69, 76, 162);
+    background-image: url(../img/hill.png);
     float: left;
-    color: #fff
+    color: #fff;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
 }
 
 
 .main-title {
     
-    font-weight:normal;
+    font-weight:100;
     font-size: 40px;
     width:100%;
-    margin-bottom:200px
+    margin-bottom:200px;
+    line-height:1em;
 }
 
 .bottom-links{
@@ -44,7 +49,8 @@ body {
 
 .bottom-links > .link {
     color: #fff;
-    display: inline-block
+    display: inline-block;
+    line-height:1em;
 }
 
 
