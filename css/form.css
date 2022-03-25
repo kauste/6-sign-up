@@ -30,6 +30,6 @@
     
         }
 
-.form > .form-row > .input:focus {
+.form > .form-row > .input:focus-visible {
     outline: 1px solid;
 }
