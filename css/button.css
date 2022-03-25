@@ -14,7 +14,7 @@
 
 .btn:hover {
     background: rgb(40,74,218);
-    background: linear-gradient(324deg, rgba(40,74,218,1) 0%, rgba(2,103,219,1) 75%);
+    background: linear-gradient(-36deg, rgba(40,74,218,1) 0%, rgba(2,103,219,1) 75%);
 }
 
 .form-row > span {
