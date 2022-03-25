@@ -27,8 +27,9 @@
     font-style: italic;
     border:none;
     border-bottom: 2px solid rgb(175, 173, 173);
-}
+    
+        }
 
-.form > .form-row > .input:hover {
+.form > .form-row > .input:focus {
     outline: 1px solid;
 }
