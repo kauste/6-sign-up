@@ -22,14 +22,32 @@
 
 .form > .form-row > .input {
     width:100%;
-    padding-bottom: 5px;
-    padding-top: 5px;
+    padding: 5px 0px;
     font-style: italic;
     border:none;
     border-bottom: 2px solid rgb(175, 173, 173);
-    
-        }
+    }
 
 .form > .form-row > .input:focus-visible {
     outline: 1px solid;
 }
+
+.form-row span {
+    font-size: 14px;
+    line-height: 40px;
+    padding: 0 10px;
+    
+}
+
+.form a {
+    line-height:40px;
+    text-decoration: none;
+}
+.form-row a {
+    font-size: 14px;
+}
+
+.form-row a:hover {
+    text-decoration: underline;
+}
+

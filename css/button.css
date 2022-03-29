@@ -17,26 +17,3 @@
     background: linear-gradient(-36deg, rgba(40,74,218,1) 0%, rgba(2,103,219,1) 75%);
 }
 
-.form-row > span {
-    display: inline-block;
-    font-size: 14px;
-    line-height: 16px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-left: 5px;
-    margin-right: 5px;
-}
-
-.form-row > a {
-    display: inline-block;
-    font-size: 14px;
-    line-height: 16px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    text-decoration: none;
-    font-size: 14px;font-size: 14px
-}
-
-.form-row > a:hover {
-    text-decoration: underline;
-}
